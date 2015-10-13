@@ -6,7 +6,7 @@
 
 == Native Client SDK has moved ==
 
-The Native Client SDK itself has moved to the chromium repository. Instructions for building and testing the Native Client SDK itself are located on the [https://sites.google.com/a/chromium.org/dev/nativeclient/sdk/howto_buildtestsdk chromium.org website]
+The Native Client SDK itself has moved to the chromium repository. Instructions for building and testing the Native Client SDK itself are located in the [https://chromium.googlesource.com/chromium/src/+/master/native_client_sdk/src/BUILDING.rst chromium repository].
 
 This repository is still used from some tools and applications that are  ancillary to the SDK itself and don't belong in the chromium repo.
 
